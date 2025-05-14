@@ -53,10 +53,10 @@ Spring Security와 JWT 인증 예제이다. 포트는 8080을 사용한다.
 } 
 ```
 
-### 3) 비인증 페이지
+### 3) 비인증
 
 * http://localhost:8080/api/test/all
 
-### 4) 인증 페이지
+### 4) 인증
 
 * http://localhost:8080/api/test/user
