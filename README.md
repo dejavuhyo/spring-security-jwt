@@ -60,3 +60,7 @@ Spring Security와 JWT 인증 예제이다. 포트는 8080을 사용한다.
 ### 4) 인증
 
 * http://localhost:8080/api/test/user
+
+## 출처 및 참고
+* [https://medium.com/@victoronu/implementing-jwt-authentication-in-a-simple-spring-boot-application-with-java-b3135dbdb17b](https://medium.com/@victoronu/implementing-jwt-authentication-in-a-simple-spring-boot-application-with-java-b3135dbdb17b)
+* [https://heyazoo1007.tistory.com/811](https://heyazoo1007.tistory.com/811)
